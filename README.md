@@ -18,3 +18,7 @@ The analysis targeted the temperate data from June and December. Focusing on the
 2. The standard deveiation for both months were roughly around 3~ degrees.
 3. The maximum temperature in June - December varied by only 3 degrees, this is key as the ice cream wouldn't melt during either months! 
 4. The minimum temperature in December can get as low as 54 degrees. This is concerned as W. Avy wannts the ice cream store to function throughout the entirety of the year.
+
+## Summary
+
+Overall, after reviewing the analysis it would be best advised to go ahead with the business endevaour to set up the Ice Cream Shop - Surf n' Shake to have business all-around. It would be a great attraction for locals and vistors. The only concern - mentioned in #4 is the dip in temperatures in July could deter customers. 
